@@ -1,0 +1,38 @@
+body {
+	background-color: #000000;
+	font-style: italic;
+	font-family: Courier New; 
+	color: green;
+}
+
+#logotype {
+	margin-left: 15px;
+}
+
+#sites {
+	margin-top: 100px;
+}
+
+#add-url {
+	margin-top: 130px;
+}
+
+#urlInput {
+	color: black;
+	padding: 5px;
+	height: 32px;
+}
+
+#buttonSend {
+	background-color: #59ea00;
+	color: white;
+	border: #59ea00;
+	height: 30px;
+}
+
+#buttonSend:hover {
+	background-color: #59ea00;
+	color: white;
+	border-color: white;
+	height: 30px;
+}
